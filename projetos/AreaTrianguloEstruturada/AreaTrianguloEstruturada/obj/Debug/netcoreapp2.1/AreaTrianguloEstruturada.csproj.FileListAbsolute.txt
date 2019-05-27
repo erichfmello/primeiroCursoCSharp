@@ -1,0 +1,11 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\bin\Debug\netcoreapp2.1\AreaTrianguloEstruturada.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\bin\Debug\netcoreapp2.1\AreaTrianguloEstruturada.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\bin\Debug\netcoreapp2.1\AreaTrianguloEstruturada.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\bin\Debug\netcoreapp2.1\AreaTrianguloEstruturada.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\bin\Debug\netcoreapp2.1\AreaTrianguloEstruturada.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.csprojAssemblyReference.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloEstruturada\AreaTrianguloEstruturada\obj\Debug\netcoreapp2.1\AreaTrianguloEstruturada.pdb

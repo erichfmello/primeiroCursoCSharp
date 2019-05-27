@@ -1,0 +1,11 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.pdb

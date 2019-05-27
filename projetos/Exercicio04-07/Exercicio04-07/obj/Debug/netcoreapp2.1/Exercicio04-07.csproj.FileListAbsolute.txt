@@ -1,0 +1,10 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\bin\Debug\netcoreapp2.1\Exercicio04-07.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\bin\Debug\netcoreapp2.1\Exercicio04-07.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\bin\Debug\netcoreapp2.1\Exercicio04-07.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\bin\Debug\netcoreapp2.1\Exercicio04-07.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\bin\Debug\netcoreapp2.1\Exercicio04-07.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\obj\Debug\netcoreapp2.1\Exercicio04-07.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\obj\Debug\netcoreapp2.1\Exercicio04-07.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\obj\Debug\netcoreapp2.1\Exercicio04-07.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\obj\Debug\netcoreapp2.1\Exercicio04-07.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Exercicio04-07\Exercicio04-07\obj\Debug\netcoreapp2.1\Exercicio04-07.pdb

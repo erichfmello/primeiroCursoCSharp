@@ -1,0 +1,10 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb

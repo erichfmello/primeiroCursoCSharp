@@ -1,0 +1,10 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\bin\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\bin\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\bin\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\bin\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\bin\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\obj\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\obj\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\obj\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\obj\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\AreaTrianguloOrientadaObjeto\AreaTrianguloOrientadaObjeto\obj\Debug\netcoreapp2.1\AreaTrianguloOrientadaObjeto.pdb
