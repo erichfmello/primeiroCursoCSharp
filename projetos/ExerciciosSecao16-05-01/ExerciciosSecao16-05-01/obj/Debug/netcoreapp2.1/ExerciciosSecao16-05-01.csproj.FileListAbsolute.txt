@@ -1,0 +1,11 @@
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\bin\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.deps.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\bin\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.runtimeconfig.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\bin\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.runtimeconfig.dev.json
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\bin\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\bin\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.pdb
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.csprojAssemblyReference.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.csproj.CoreCompileInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.AssemblyInfoInputs.cache
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.AssemblyInfo.cs
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.dll
+C:\Erich\Cursos\C# Completo 2019 com Programacao Orientada Objeto\projetos\ExerciciosSecao16-05-01\ExerciciosSecao16-05-01\obj\Debug\netcoreapp2.1\ExerciciosSecao16-05-01.pdb
